@@ -13,3 +13,7 @@
 <br> print('The quick brown fox', 'jumps over', 'the lazy dog')
 <br> The quick brown fox jumps over the lazy dog
 <br> print()会依次打印每个字符串，遇到逗号“,”会输出一个空格，因此，输出的字符串是这样拼起来的.
+* 5.输出
+> input()
+> >name = input('please enter your name: ')
+<br>print('hello,', name)
